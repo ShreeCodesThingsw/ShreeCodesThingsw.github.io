@@ -1,5 +1,3 @@
-# ShreeCodesThingsw.github.io
-
 # Personal Webpage
 
 Welcome to my personal webpage project! This webpage showcases my portfolio and provides information about me.
